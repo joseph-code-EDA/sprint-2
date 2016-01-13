@@ -17,6 +17,11 @@ h2 {
   padding: 0;
 }
 
+img {
+  background-position:center;
+  background-size:200px;
+}
+
 p,a {
   color: gray;
   font-family:arial,thin;
