@@ -2,7 +2,11 @@ body {
   background:black;
 }
 
-h1,h2,p {
+h1 {
+  font-family:impact,sans-serif;
+}
+
+h2,p {
   color:white;
 }
 
