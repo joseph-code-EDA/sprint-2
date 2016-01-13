@@ -1,10 +1,10 @@
 body {
   background: black;
-  background-image: url(images/day02.JPG);
 }
 
 h1 {
   font-family:impact,sans-serif;
+  font-size: 500px;
   color: white;
   text-align: center;
 }
@@ -15,6 +15,7 @@ h2,p {
 }
 
 a {
-  color: gray;
+  color: white;
+  display: inline-block;
   text-align: center;
 }
