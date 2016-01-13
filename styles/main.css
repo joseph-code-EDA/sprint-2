@@ -4,7 +4,7 @@ body {
 
 h1 {
   font-family:impact,sans-serif;
-  font-size: 83px;
+  font-size: 84px;
   color: white;
   text-align: center;
   padding: 0;
@@ -19,7 +19,6 @@ h2 {
 
 img {
   background-position:center;
-  background-size:200px;
 }
 
 p,a {
