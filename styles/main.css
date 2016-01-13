@@ -4,21 +4,23 @@ body {
 
 h1 {
   font-family:impact,sans-serif;
-  font-size: 90px;
+  font-size: 85px;
   color: white;
   text-align: center;
   padding: 0;
 }
 
-h2,p {
+h2 {
   font-family:helvetica,thin;
   color:white;
   text-align: center;
   padding: 0;
 }
 
-a {
+p {
   color: white;
+  font-family:arial,thin;
   display: inline-block;
   text-align: center;
+  padding: 15px;
 }
