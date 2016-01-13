@@ -1,5 +1,7 @@
 body {
   background: black;
+  background-image: url('main bg.jpg');
+  background-position: center;
 }
 
 h1 {
@@ -17,9 +19,6 @@ h2 {
   padding: 0;
 }
 
-img {
-  background-position:center;
-}
 
 p,a {
   color: gray;
