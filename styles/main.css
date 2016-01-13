@@ -4,10 +4,10 @@ body {
 
 h1 {
   font-family:impact,sans-serif;
-  font-size: 100px;
+  font-size: 90px;
   color: white;
   text-align: center;
-  padding: 5px;
+  padding: 0;
 }
 
 h2,p {
