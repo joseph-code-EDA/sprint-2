@@ -17,7 +17,7 @@ h2 {
   padding: 0;
 }
 
-p {
+p,a {
   color: white;
   font-family:arial,thin;
   display: inline-block;
