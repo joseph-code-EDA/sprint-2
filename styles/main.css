@@ -4,7 +4,7 @@ body {
 
 h1 {
   font-family:impact,sans-serif;
-  font-size: 85px;
+  font-size: 83px;
   color: white;
   text-align: center;
   padding: 0;
@@ -18,9 +18,9 @@ h2 {
 }
 
 p,a {
-  color: white;
+  color: gray;
   font-family:arial,thin;
-  display: inline-block;
   text-align: center;
+  text-align: inline-block;
   padding: 15px;
 }
