@@ -12,11 +12,17 @@ h1 {
 }
 
 h2 {
-  color:gray;
+  color: gray;
   font-family: helvetica;
   text-align: center;
   padding: 0;
   margin: 0 0 20px;
+}
+
+h3 {
+  color: gray;
+  font-family: Arial;
+  padding-bottom: 0;
 }
 
 p {
