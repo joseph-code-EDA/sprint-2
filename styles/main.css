@@ -32,6 +32,7 @@ img {
 
 a {
   color: white;
+  display:inline;
   font-family:arial;
   text-align: center;
   padding: 0px 0px 0px 0px;
