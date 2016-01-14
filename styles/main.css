@@ -16,17 +16,19 @@ h2 {
   color:gray;
   text-align: center;
   padding:0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
 }
+
 p {
-  color: gray;
-  font-family:arial,thin;
+  color: white;
+  font-family:arial;
   text-align: center;
-  text-align: inline-block;
+  text-align: block;
   padding: 15px;
 
 a {
-  color: blue;
-  font-family:arial,thin;
-  text-align: inline-block;
+  color: red;
+  font-family:arial;
+  text-align: inline;
   padding: 0;
 }
