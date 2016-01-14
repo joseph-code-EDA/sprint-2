@@ -21,6 +21,7 @@ h2 {
 
 p {
   text-align: center;
+  color: white;
 }
 
 img {
@@ -30,11 +31,11 @@ img {
 }
 
 a:hover{
-  color: red;
+  background-color: red;
 }
 
 a {
-  color: white;
+  color: black;
   display:inline;
   font-family:arial;
   text-align: center;
