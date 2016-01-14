@@ -19,10 +19,7 @@ h2 {
   margin: 0px 0px 0px 0px;
 }
 
-.bg {
-}
-
-p {
+p,a {
   color: white;
   display:inline;
   font-family:arial;
