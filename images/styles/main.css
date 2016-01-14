@@ -1,0 +1,45 @@
+body {
+  background: #000000;
+}
+
+h1 {
+  font-family:impact,sans-serif;
+  font-size: 85px;
+  color: #ffffff;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  color:gray;
+  font-family: helvetica;
+  text-align: center;
+  padding: 0;
+  margin: 0 0 20px;
+}
+
+p {
+  color: #ffffff;
+  display: inline;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:hover {
+  background-color: #ff0000;
+}
+
+a {
+  color: #ffffff;
+  font-family: arial; 
+  margin: 0 40px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none; 
+}
