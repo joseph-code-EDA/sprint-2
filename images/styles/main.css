@@ -2,11 +2,6 @@ body {
   background-color: #000000;
 }
 
-img {
-  background-image: url("../images/main bg.jpg")no-repeat;
-  background-size: cover;
-}
-
 h1 {
   font-family:impact,sans-serif;
   font-size: 61px;
