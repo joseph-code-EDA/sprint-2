@@ -29,6 +29,9 @@ img {
   margin-right: auto;
 }
 
+a:hover{
+  color: red;
+}
 
 a {
   color: white;
