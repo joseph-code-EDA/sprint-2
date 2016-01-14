@@ -6,17 +6,17 @@ body {
 
 h1 {
   font-family:impact,sans-serif;
-  font-size: 84px;
+  font-size: 85px;
   color: white;
   text-align: center;
-  padding: 0;
+  padding:0;
 }
 
 h2 {
-  font-family:helvetica,thin;
-  color:white;
+  font-family:helvetica;
+  color:gray;
   text-align: center;
-  padding: 0;
+  padding:10px,20px;
 }
 p {
   color: gray;
@@ -28,7 +28,6 @@ p {
 a {
   color: black;
   font-family:arial,thin;
-  text-align: center;
   text-align: inline-block;
   padding: 0;
 }
