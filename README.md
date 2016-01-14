@@ -1,2 +1,2 @@
-<--joseph-code-EDA.github.io-->
+<!joseph-code-EDA.github.io>
 Rangitaki/Blog
