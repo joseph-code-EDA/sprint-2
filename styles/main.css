@@ -18,12 +18,17 @@ h2 {
   text-align: center;
   padding: 0;
 }
-
-
-p,a {
+p {
   color: gray;
   font-family:arial,thin;
   text-align: center;
   text-align: inline-block;
   padding: 15px;
+
+a {
+  color: black;
+  font-family:arial,thin;
+  text-align: center;
+  text-align: inline-block;
+  padding: 0;
 }
