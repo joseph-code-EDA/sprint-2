@@ -1,2 +1,1 @@
-<!joseph-code-EDA.github.io>
-Rangitaki/Blog
+Taku Rangitaki | My Blog
