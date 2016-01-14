@@ -21,14 +21,8 @@ h2 {
 
 p {
   color: white;
+  display:inline;
   font-family:arial;
   text-align: center;
-  text-align: block;
   padding: 15px;
-
-a {
-  color: red;
-  font-family:arial;
-  text-align: inline;
-  padding: 0;
 }
