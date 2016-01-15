@@ -2,6 +2,11 @@ body {
   background: black;
 }
 
+html {
+  font-family: times ;
+  background: url(https://joseph-code-EDA.github.io/images/images.main.jpg) no-repeat center center fixed; background-size: cover;
+  }
+
 h1 {
   font-family:impact,sans-serif;
   font-size: 85px;
