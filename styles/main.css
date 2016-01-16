@@ -1,41 +1,28 @@
 body {
   background: black;
+  background-image: url(/images/day02.jpg);
 }
 
-html {
-  font-family: times ;
-  background: url(https://joseph-code-EDA.github.io/images/images.main.jpg) no-repeat center center fixed; background-size: cover;
-  }
-
 h1 {
-  font-family:impact,sans-serif;
-  font-size: 85px;
+  font-family: "Poiret+One";
+  font-size: 60px;
   color: white;
   text-align: center;
-  padding:0px 0px 0px 0px;
-  margin:0px 0px 0px 0px;
+  padding:0px;
+  margin:0px;
 }
 
 h2 {
   font-family:helvetica;
   color:gray;
   text-align: center;
-  padding:0px 0px 0px 0px;
-  margin: 0px 0px 20px 0px;
-}
-
-h3 {
-  font-family:Arial;
-  color:gray;
-  padding:20px 0 0 0;
+  padding:0 0 20px 0;
+  margin: 0px;
 }
 
 p {
+  display: block;
   text-align: center;
-  font-family: arial;
-  display: inline;
-  color: white;
-  padding-top: 0 0 15px 0;
 }
 
 img {
@@ -46,6 +33,7 @@ img {
 
 a:hover{
   background-color: red;
+  color: black;
 }
 
 a {
@@ -54,13 +42,5 @@ a {
   font-family:arial;
   text-align: block;
   padding: 10px;
-  margin: 40;
-}
-
-#nav {
-  color: white;
-  text-decoration: none;
-  font-family:arial;
-  text-align: center;
-  padding: 30px;
+  margin: 20px;
 }
